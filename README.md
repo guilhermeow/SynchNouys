@@ -4,7 +4,7 @@
 
 ## Install packages:
 
-Use the package manager [npm](https://www.npmjs.com/) to install the packages.
+**Use the package manager [npm](https://www.npmjs.com/) to install the packages.**
 
 ```bash
 npm install request
@@ -25,4 +25,4 @@ npm install fs
 ![image](/examples/one_image_example.png)
 
 ### License:
-[Apache License 2.0(https://github.com/sickog0d/SynchNouys/blob/main/LICENSE)
+[Apache License 2.0](https://github.com/sickog0d/SynchNouys/blob/main/LICENSE)
