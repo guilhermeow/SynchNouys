@@ -1,0 +1,17 @@
+{
+  "name": "syncnurres",
+  "version": "1.0.0",
+  "description": "Tool designed to search for admins on websites.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kawan <sickog0d>",
+  "license": "MIT"
+}
