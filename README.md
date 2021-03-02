@@ -13,8 +13,8 @@ npm install fs
 ```
 
 ## How to use:
-- Usage `node index.js` for a start the script
-- Right after the script starts, enter the URL
+- Usage `node index.js` for a start the script.
+- Right after the script starts, enter the `URL`.
 
 ## Contributors:
 - [Fumante1533](https://github.com/Fumante1533)
