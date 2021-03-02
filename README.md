@@ -24,7 +24,7 @@ npm install fs
 
 ![image](/examples/one_image_example.gif)
 
-The results of the process will be saved in the file "page_found.txt"
+- *The results of the process will be saved in the file "page_found.txt"*
 
 ### License:
 - [Apache License 2.0](https://github.com/sickog0d/SynchNouys/blob/main/LICENSE)
