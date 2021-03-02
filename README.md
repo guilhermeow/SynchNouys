@@ -22,7 +22,7 @@ npm install fs
 
 ### Examples:
 
-![image](/examples/one_image_example.png)
+![image](/examples/one_image_example.gif)
 
 ### License:
 - [Apache License 2.0](https://github.com/sickog0d/SynchNouys/blob/main/LICENSE)
