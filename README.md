@@ -25,4 +25,4 @@ npm install fs
 
 ### Examples:
 
-![image](https://prnt.sc/10bh99e)
+![image](images/one_image_example.png)
