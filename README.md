@@ -1,8 +1,8 @@
-# NOME DA FERRAMENTA
+# SynchNouys
 
 > Tool designed to search for admins on websites.
 
-## Install packages:
+## Required Packages
 
 **Use the package manager [npm](https://www.npmjs.com/) to install the packages.**
 
@@ -23,6 +23,8 @@ npm install fs
 ### Example:
 
 ![image](/examples/one_image_example.gif)
+
+The results of the process will be saved in the file "page_found.txt"
 
 ### License:
 - [Apache License 2.0](https://github.com/sickog0d/SynchNouys/blob/main/LICENSE)
