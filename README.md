@@ -4,7 +4,7 @@
 
 ## Install packages:
 
-Use the package manager [npm](https://www.npmjs.com/) to install the packages.
+**Use the package manager [npm](https://www.npmjs.com/) to install the packages.**
 
 ```bash
 npm install request
