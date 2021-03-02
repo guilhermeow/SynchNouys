@@ -26,4 +26,3 @@ npm install fs
 ### Examples:
 
 ![image](/examples/one_image_example.png)
- - Insert the URL site here
