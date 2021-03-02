@@ -20,7 +20,7 @@ npm install fs
 - [Fumante1533](https://github.com/Fumante1533)
 - [Dean1533](https://github.com/Dean1337)
 
-### Examples:
+### Example:
 
 ![image](/examples/one_image_example.gif)
 
