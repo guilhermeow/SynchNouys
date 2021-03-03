@@ -1,4 +1,4 @@
-const fs = require("fs")
+const fs = require("fs");
 const readline = require("readline");
 const request = require("request");
 const { red, green, reset } = require("./utils/colors.js");
