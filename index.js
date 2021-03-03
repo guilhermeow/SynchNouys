@@ -15,7 +15,7 @@ function LoadAscii(image_type) {
     var image = fs.readFileSync(image_type, "utf-8");
     console.clear();
     console.log(image);
-}
+};
 function LoadAsciiTitle(image) {
     var image = fs.readFileSync(image, "utf-8");
     console.clear();
