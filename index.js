@@ -59,7 +59,7 @@ async function SiteRequest(url) {
                 };
             });
         }
-    } catch (err) {
+    } catch (err); {
         console.log(reset, "======================================================================================");
         console.log(red, "[ERROR] There was an error accessing the page");
         console.log(reset, "======================================================================================");
