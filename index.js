@@ -48,7 +48,6 @@ async function SiteRequest(url) {
     try {
         for (var i = 0; i < list.length; i++) {
             const url_status = url + list[i];
-            //https://www.teddyhouse.com/
             request.get(url + list[i], function (error, response) {
                 if (!error && response.statusCode == 200) {
                     console.log(green, "[SUCESS] PAGE FOUND", url_status);
